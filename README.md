@@ -1,4 +1,4 @@
-# Simple Random English Word Random With Flutter ListView
+# Random application of English words with Flutter listview
 
 ![listview_sederhana](https://user-images.githubusercontent.com/54461403/82185155-feb5a680-9912-11ea-8bbb-bbf4963d7c6e.gif)
 
